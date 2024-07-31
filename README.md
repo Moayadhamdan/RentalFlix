@@ -77,7 +77,7 @@ RentalFlix aims to provide a seamless experience for both staff and customers by
 ## ERD Diagram
 Below is the Entity-Relationship Diagram (ERD) for RentalFlix:
 
-![ERD diagram](Assets/RentalFlix%20ERD.png)
+![ERD diagram](Assets/RentalFlixERD.png)
 
 ## Explanation of the ERD
 The ERD shows the entities involved in the RentalFlix system and their relationships:
